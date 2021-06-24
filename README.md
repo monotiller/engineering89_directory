@@ -16,4 +16,4 @@ Enjoy!
 - [Python Control Flow Task](https://github.com/monotiller/engineering89_python_control_flow_task)
 - [Python Birth Year Task](https://github.com/monotiller/engineering89_python_birth_year_task)
 - [Python Loops Task](https://github.com/monotiller/engineering89_python_loops_task)
-- [Python FizzBuzz](https://github.com/monotiller/engineering89_python_fizzbuzz)
+- [Python FizzBuzz](https://github.com/monotiller/engineering89_python_fizzbuzz_task)
