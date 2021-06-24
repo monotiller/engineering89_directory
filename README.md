@@ -18,3 +18,4 @@ Enjoy!
 - [Python Loops Task](https://github.com/monotiller/engineering89_python_loops_task)
 - [Python FizzBuzz](https://github.com/monotiller/engineering89_python_fizzbuzz_task)
   - [Python FizzBuzz OOP](https://github.com/monotiller/engineering89_python_fizzbuzz_task/tree/oop) (Work in progress)
+- [Python OOP Tasks](https://github.com/monotiller/engineering89_python_oop_tasks)
