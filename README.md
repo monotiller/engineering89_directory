@@ -17,3 +17,4 @@ Enjoy!
 - [Python Birth Year Task](https://github.com/monotiller/engineering89_python_birth_year_task)
 - [Python Loops Task](https://github.com/monotiller/engineering89_python_loops_task)
 - [Python FizzBuzz](https://github.com/monotiller/engineering89_python_fizzbuzz_task)
+  - [Python FizzBuzz OOP](https://github.com/monotiller/engineering89_python_fizzbuzz_task/tree/oop) (Work in progress)
