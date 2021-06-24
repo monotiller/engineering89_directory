@@ -9,6 +9,7 @@ Enjoy!
 - [Git & GitHub](https://github.com/monotiller/engineering89_git_github)
 - [Python Collections](https://github.com/monotiller/engineering89_python_collections)
 - [Python Control Flow](https://github.com/monotiller/engineering89_python_control_flow)
+- [Python OOP](https://github.com/monotiller/engineering89_python_oop)
 
 ## Tasks
 - [Python Concatenation and Interpolation task](https://github.com/monotiller/engineering89_python_concatenation_interpolation_task)
