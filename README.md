@@ -9,7 +9,8 @@ Enjoy!
 - [Git & GitHub](https://github.com/monotiller/engineering89_git_github)
 - [Python Collections](https://github.com/monotiller/engineering89_python_collections)
 - [Python Control Flow](https://github.com/monotiller/engineering89_python_control_flow)
-- [Python OOP](https://github.com/monotiller/engineering89_python_oop)
+- [Python Object Oriented Programming (OOP)](https://github.com/monotiller/engineering89_python_oop)
+- [Python Test Driven Development (TDD)](https://github.com/monotiller/engineering89_python_tdd)
 
 ## Tasks
 - [Python Concatenation and Interpolation task](https://github.com/monotiller/engineering89_python_concatenation_interpolation_task)
@@ -17,5 +18,6 @@ Enjoy!
 - [Python Birth Year Task](https://github.com/monotiller/engineering89_python_birth_year_task)
 - [Python Loops Task](https://github.com/monotiller/engineering89_python_loops_task)
 - [Python FizzBuzz](https://github.com/monotiller/engineering89_python_fizzbuzz_task)
-  - [Python FizzBuzz OOP](https://github.com/monotiller/engineering89_python_fizzbuzz_task/tree/oop) (Work in progress)
-- [Python OOP Tasks](https://github.com/monotiller/engineering89_python_oop_tasks)
+  - [Python FizzBuzz Object Oriented Programming (OOP)](https://github.com/monotiller/engineering89_python_fizzbuzz_task/tree/oop) (Work in progress)
+- [Python Object Oriented Programming (OOP) Tasks](https://github.com/monotiller/engineering89_python_oop_tasks)
+- [Python Test Driven Development (TDD) Tasks](https://github.com/monotiller/engineering89_python_tdd_task)
