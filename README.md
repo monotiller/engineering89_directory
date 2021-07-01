@@ -11,6 +11,10 @@ Enjoy!
 - [Python Control Flow](https://github.com/monotiller/engineering89_python_control_flow)
 - [Python Object Oriented Programming (OOP)](https://github.com/monotiller/engineering89_python_oop)
 - [Python Test Driven Development (TDD)](https://github.com/monotiller/engineering89_python_tdd)
+- [Python building packages](https://github.com/monotiller/engineering89_python_building_packages)
+- [Python postcodes API](https://github.com/monotiller/engineering89_python_postcode_api)
+- [Python exception handling and working with files](https://github.com/monotiller/engineering89_python_exception_handling_working_with_files)
+- [Python first exam practice](https://github.com/monotiller/engineering89_python_exam_practice_1)
 
 ## Tasks
 - [Python Concatenation and Interpolation task](https://github.com/monotiller/engineering89_python_concatenation_interpolation_task)
@@ -21,3 +25,5 @@ Enjoy!
   - [Python FizzBuzz Object Oriented Programming (OOP)](https://github.com/monotiller/engineering89_python_fizzbuzz_task/tree/oop) (Work in progress)
 - [Python Object Oriented Programming (OOP) Tasks](https://github.com/monotiller/engineering89_python_oop_tasks)
 - [Python Test Driven Development (TDD) Tasks](https://github.com/monotiller/engineering89_python_tdd_task)
+- [Python exception handling and working with files task](https://github.com/monotiller/engineering89_python_exception_handling_working_with_files_task)
+  - [Python exchange rate API task](https://github.com/monotiller/engineering89_python_exchange_rate_task)
