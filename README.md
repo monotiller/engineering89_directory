@@ -27,3 +27,6 @@ Enjoy!
 - [Python Test Driven Development (TDD) Tasks](https://github.com/monotiller/engineering89_python_tdd_task)
 - [Python exception handling and working with files task](https://github.com/monotiller/engineering89_python_exception_handling_working_with_files_task)
   - [Python exchange rate API task](https://github.com/monotiller/engineering89_python_exchange_rate_task)
+
+## Projects
+- [Plane project](https://github.com/engineering89-plane-project-group-3/project)
