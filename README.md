@@ -15,6 +15,7 @@ Enjoy!
 - [Python postcodes API](https://github.com/monotiller/engineering89_python_postcode_api)
 - [Python exception handling and working with files](https://github.com/monotiller/engineering89_python_exception_handling_working_with_files)
 - [Python first exam practice](https://github.com/monotiller/engineering89_python_exam_practice_1)
+- [Vagrant Introduction](https://github.com/monotiller/engineering89_vagrant)
 
 ## Tasks
 - [Python Concatenation and Interpolation task](https://github.com/monotiller/engineering89_python_concatenation_interpolation_task)
