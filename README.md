@@ -31,3 +31,4 @@ Enjoy!
 
 ## Projects
 - [Plane project](https://github.com/engineering89-plane-project-group-3/project)
+- [Job search project](https://github.com/engineering89-job-project-group-2/project)
