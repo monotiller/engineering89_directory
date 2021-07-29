@@ -16,6 +16,9 @@ Enjoy!
 - [Python exception handling and working with files](https://github.com/monotiller/engineering89_python_exception_handling_working_with_files)
 - [Python first exam practice](https://github.com/monotiller/engineering89_python_exam_practice_1)
 - [Vagrant Introduction](https://github.com/monotiller/engineering89_vagrant)
+- [AWS 2 tier app deployment](https://github.com/monotiller/engineering89_2tier_app_deployment)
+- [AWS disaster recovery plan](https://github.com/monotiller/engineering89_disaster_recovery_plan)
+- [AWS multi server automation](https://github.com/monotiller/engineering89_multi_server_automation)
 
 ## Tasks
 - [Python Concatenation and Interpolation task](https://github.com/monotiller/engineering89_python_concatenation_interpolation_task)
@@ -32,3 +35,7 @@ Enjoy!
 ## Projects
 - [Plane project](https://github.com/engineering89-plane-project-group-3/project)
 - [Job search project](https://github.com/engineering89-job-project-group-2/project)
+
+## Personal projects
+- [Flyhihgh theme](https://github.com/monotiller/flyhigh) - A Jekyll theme built by myself and @[Ahhhh-man](https://github.com/Ahhhh-man/) based off of the plane project
+- [My portfolio](https://monotiller.github.io)
