@@ -19,6 +19,8 @@ Enjoy!
 - [AWS 2 tier app deployment](https://github.com/monotiller/engineering89_2tier_app_deployment)
 - [AWS disaster recovery plan](https://github.com/monotiller/engineering89_disaster_recovery_plan)
 - [AWS multi server automation](https://github.com/monotiller/engineering89_multi_server_automation)
+- [AWS VPC Setup](https://github.com/monotiller/engineering89_vpc_setup)
+- [Ansible controller](https://github.com/monotiller/eng89_ansible_controller)
 
 ## Tasks
 - [Python Concatenation and Interpolation task](https://github.com/monotiller/engineering89_python_concatenation_interpolation_task)
@@ -31,6 +33,7 @@ Enjoy!
 - [Python Test Driven Development (TDD) Tasks](https://github.com/monotiller/engineering89_python_tdd_task)
 - [Python exception handling and working with files task](https://github.com/monotiller/engineering89_python_exception_handling_working_with_files_task)
   - [Python exchange rate API task](https://github.com/monotiller/engineering89_python_exchange_rate_task)
+- [Jenkins provisioning task](https://github.com/monotiller/engineering89_jenkins_provision_task)
 
 ## Projects
 - [Plane project](https://github.com/engineering89-plane-project-group-3/project)
