@@ -20,7 +20,7 @@ Enjoy!
 - [AWS disaster recovery plan](https://github.com/monotiller/engineering89_disaster_recovery_plan)
 - [AWS multi server automation](https://github.com/monotiller/engineering89_multi_server_automation)
 - [AWS VPC Setup](https://github.com/monotiller/engineering89_vpc_setup)
-- [Ansible controller](https://github.com/monotiller/eng89_ansible_controller)
+- [Infrastructure as code](https://github.com/monotiller/eng89_iac "Now including Ansible AND Packer")
 
 ## Tasks
 - [Python Concatenation and Interpolation task](https://github.com/monotiller/engineering89_python_concatenation_interpolation_task)
