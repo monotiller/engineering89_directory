@@ -21,6 +21,8 @@ Enjoy!
 - [AWS multi server automation](https://github.com/monotiller/engineering89_multi_server_automation)
 - [AWS VPC Setup](https://github.com/monotiller/engineering89_vpc_setup)
 - [Infrastructure as code](https://github.com/monotiller/eng89_iac "Now including Ansible AND Packer")
+- [Docker](https://github.com/monotiller/engineering89_docker)
+  - [Docker version of our project](https://github.com/monotiller/engineering89-job-project-group-2/tree/docker)
 
 ## Tasks
 - [Python Concatenation and Interpolation task](https://github.com/monotiller/engineering89_python_concatenation_interpolation_task)
