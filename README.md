@@ -42,6 +42,7 @@ Enjoy!
 ## Projects
 - [Plane project](https://github.com/engineering89-plane-project-group-3/project)
 - [Job search project](https://github.com/engineering89-job-project-group-2/project)
+- [Final group project](https://github.com/engineering89-final-project)
 
 ## Personal projects
 - [Flyhihgh theme](https://github.com/monotiller/flyhigh) - A Jekyll theme built by myself and @[Ahhhh-man](https://github.com/Ahhhh-man/) based off of the plane project
